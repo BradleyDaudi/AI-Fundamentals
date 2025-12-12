@@ -1,8 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRucjl0YjAzOXM0NTh5b2gxc2tvOW5mZmQ2NGZyYXVvMzI4ajBqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif" width="300"/>
+</div>
+
 # 🍄 My 30-Day AI Power-Up Journey | Zindua School
 
 ![Zindua Banner](https://img.shields.io/badge/Zindua-School-red?style=for-the-badge&logo=target) ![Course](https://img.shields.io/badge/Course-AI_Fundamentals-blue?style=for-the-badge&logo=openai) ![Status](https://img.shields.io/badge/Status-Leveling_Up_Since_Nov_2025-success?style=for-the-badge&logo=retroarch)
-
-[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRucjl0YjAzOXM0NTh5b2gxc2tvOW5mZmQ2NGZyYXVvMzI4ajBqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif]
+]
 
 > *"It's me, an AI Engineer in the making!"* 👾
 
