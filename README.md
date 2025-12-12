@@ -2,9 +2,9 @@
 
 ![Zindua Banner](https://img.shields.io/badge/Zindua-School-red?style=for-the-badge&logo=target) ![Course](https://img.shields.io/badge/Course-AI_Fundamentals-blue?style=for-the-badge&logo=openai) ![Status](https://img.shields.io/badge/Status-Leveling_Up_Since_Nov_2025-success?style=for-the-badge&logo=retroarch)
 
-> *"It's-a me, an AI Engineer in the making!"* 👾
+> *"It's me, an AI Engineer in the making!"* 👾
 
-Welcome to the repository documenting my quest through the **30-Day AI Fundamentals Course** at **Zindua School**. This isn't just a course; it's a warp pipe into the world of Large Language Models (LLMs), prompt engineering, agents, and modern tooling.
+Welcome to the repository documenting my quest through the **30-Day AI Fundamentals Course** at **Zindua School**. This isn't just a course; it's a warp pipe into the world of Large Language Models (LLMs), prompt engineering, agents, vibe coding and modern tooling.
 
 Below is a chronicle of the skills I've collected, the bosses (complex concepts) I've defeated, and the cool projects I've built along the way.
 
@@ -35,10 +35,16 @@ Even experienced players fall into traps. I learned to identify common mistakes 
 
 *Here are examples of how I applied these techniques to collect stars. Check out my progression!*
 
-### ➤ Level 1: [Insert Name of Your First Task]
+### ➤ Level 1: [Image Generation Prompt]
 **The Strategy (Prompt Used):**
-```text
-Role: You are a senior Javascript Developer...
-Context: I am building a...
-Action: Write a function that...
-Vibe: Clean code, commented, professional.
+```
+~ Image generation prompt
+
+As a  professional  designer ,generate a visually appealing consistent  5- phase storyboard highligting how to start a startup company in the telecommunications industry to beat Safaricom and Airtel in the Kenyan Market. The brand should have a purple and black theme and 16:9 ratio in size. Include notes in each phase  breafly explaining  the processes.  Make it lively and appealing to market as well.  Generate all 5 phases in one story board page and do not include duplicates  of phases on the output. Make the Phases interconnected. Also, do not include the wording "Beating Safaricom & Airtel". Finally, Act as a competitor taking over the game.
+```
+Role: You are a professional designer..
+Context: I am building a storyboard...
+Action: geenrate a storyboard...
+Vibe: visualy appealing, consistent, lively...
+
+
