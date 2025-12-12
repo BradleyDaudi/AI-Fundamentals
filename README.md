@@ -42,10 +42,10 @@ This is the ultimate cheat code! We unlocked the **"Vibe Coding" Toolkit**, spec
 
 ---
 
-🤖 World 4: Building the Robot Army (AI Agents with n8n)
+## 🤖 World 4: Building the Robot Army (AI Agents with n8n)
 This world is all about taking the next step: building autonomous workflows known as AI Agents. We used n8n—a powerful, self-hostable automation platform—running locally on Docker Desktop for consistent, controlled development.
 
-🐳 Foundation: n8n on Docker Desktop
+#### 🐳 Foundation: n8n on Docker Desktop
 
 Running n8n via Docker Desktop ensures a clean, isolated environment for all our agents. This method allows us to manage dependencies easily, make our workflows portable, and maintain full control over our data and costs—a crucial professional skill.
 
