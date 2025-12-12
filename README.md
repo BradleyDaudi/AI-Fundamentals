@@ -29,4 +29,32 @@ This is the core mechanic of the game. As the instructors at Zindua emphasized: 
 ### 🚫 The "Game Over" Pitfalls
 Even experienced players fall into traps. I learned to identify common mistakes that ruin a prompt, such as being **Too Vague** (insufficient context), having an **Overloaded Ask** (trying to do too much in one turn), drowning the AI in **Overloaded Context** (unrelated topics), forgetting the **Audience**, or failing to define **Constraints**.
 
+## 🛠️ World 3: The Power-Up Toolkit (Dev Tools)
+
+You can't beat Bowser with just a jump. We explored the modern ecosystem of AI tooling designed to speed up development and deployment.
+
+### 🧱 Replit
+We explored **Replit**, a cloud-based development environment that acts like a portable save file. It enables writing, running, and deploying applications directly in the browser. The "star power" here is the real-time collaboration and the integrated AI-assisted coding that helps debug and generate code on the fly.
+
+### 💖 Lovable (Vibe Coding Toolkit)
+
+This is the ultimate cheat code! We unlocked the **"Vibe Coding" Toolkit**, specifically focusing on **Lovable AI**. This platform allows us to **Build Full Apps by Talking**, converting natural language prompts (the "vibe") into entire web applications. It focuses on **real code generation**, delivering working **frontends, backends, and database logic** in minutes. All you have to do is describe your app idea in plain English, and Lovable generates a fullstack codebase you can immediately run, customize, and deploy.
+
+---
+
+🤖 World 4: Building the Robot Army (AI Agents with n8n)
+This world is all about taking the next step: building autonomous workflows known as AI Agents. We used n8n—a powerful, self-hostable automation platform—running locally on Docker Desktop for consistent, controlled development.
+
+🐳 Foundation: n8n on Docker Desktop
+
+Running n8n via Docker Desktop ensures a clean, isolated environment for all our agents. This method allows us to manage dependencies easily, make our workflows portable, and maintain full control over our data and costs—a crucial professional skill.
+
+💡 Agent Building Pathways
+
+We explored n8n's two key approaches for developing AI Agents, balancing speed and customization:
+
+Approach	Method	Description	Key Advantage
+No-Code Solution (Agent Nodes)	Drag-and-drop visual nodes (like the dedicated AI Agent node).	Agents are created by visually connecting LLMs, memory, and tools on a canvas. This approach is rapid for prototyping and business-process automation.	Speed & Accessibility: Ship complex, reliable agents fast without writing a single line of code.
+Code Solution (Custom Tools)	Utilizing the Code Node in combination with the AI Agent node.	This involves writing Python or JavaScript code within n8n's visual workflows to create custom tools or handle highly specialized logic that pre-built nodes cannot manage.	Flexibility & Control: Achieve hyper-specific integration or logic for unique, enterprise-level use cases.
+
 
