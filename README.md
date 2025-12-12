@@ -29,22 +29,4 @@ This is the core mechanic of the game. As the instructors at Zindua emphasized: 
 ### 🚫 The "Game Over" Pitfalls
 Even experienced players fall into traps. I learned to identify common mistakes that ruin a prompt, such as being **Too Vague** (insufficient context), having an **Overloaded Ask** (trying to do too much in one turn), drowning the AI in **Overloaded Context** (unrelated topics), forgetting the **Audience**, or failing to define **Constraints**.
 
----
-
-## 🕹️ My Prompting Portfolio Example
-
-*Here are examples of how I applied these techniques to collect stars. Check out my progression!*
-
-### ➤ Level 1: [Image Generation Prompt]
-**The Strategy (Prompt Used):**
-```
-~ Image generation prompt
-
-As a  professional  designer ,generate a visually appealing consistent  5- phase storyboard highligting how to start a startup company in the telecommunications industry to beat Safaricom and Airtel in the Kenyan Market. The brand should have a purple and black theme and 16:9 ratio in size. Include notes in each phase  breafly explaining  the processes.  Make it lively and appealing to market as well.  Generate all 5 phases in one story board page and do not include duplicates  of phases on the output. Make the Phases interconnected. Also, do not include the wording "Beating Safaricom & Airtel". Finally, Act as a competitor taking over the game.
-```
-Role: You are a professional designer..
-Context: I am building a storyboard...
-Action: geenrate a storyboard...
-Vibe: visualy appealing, consistent, lively...
-
 
