@@ -2,6 +2,8 @@
 
 ![Zindua Banner](https://img.shields.io/badge/Zindua-School-red?style=for-the-badge&logo=target) ![Course](https://img.shields.io/badge/Course-AI_Fundamentals-blue?style=for-the-badge&logo=openai) ![Status](https://img.shields.io/badge/Status-Leveling_Up_Since_Nov_2025-success?style=for-the-badge&logo=retroarch)
 
+[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRucjl0YjAzOXM0NTh5b2gxc2tvOW5mZmQ2NGZyYXVvMzI4ajBqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif]
+
 > *"It's me, an AI Engineer in the making!"* 👾
 
 Welcome to the repository documenting my quest through the **30-Day AI Fundamentals Course** at **Zindua School**. This isn't just a course; it's a warp pipe into the world of Large Language Models (LLMs), prompt engineering, agents, vibe coding and modern tooling.
@@ -43,18 +45,18 @@ This is the ultimate cheat code! We unlocked the **"Vibe Coding" Toolkit**, spec
 ---
 
 ## 🤖 World 4: Building the Robot Army (AI Agents with n8n)
-This world is all about taking the next step: building autonomous workflows known as AI Agents. We used n8n—a powerful, self-hostable automation platform—running locally on Docker Desktop for consistent, controlled development.
+This world is all about taking the next step: building autonomous workflows known as AI Agents. We used n8n a powerful, self-hostable automation platform—running locally on Docker Desktop for consistent, controlled development.
 
 #### 🐳 Foundation: n8n on Docker Desktop
 
-Running n8n via Docker Desktop ensures a clean, isolated environment for all our agents. This method allows us to manage dependencies easily, make our workflows portable, and maintain full control over our data and costs—a crucial professional skill.
+Running n8n via Docker Desktop ensures a clean, isolated environment for all our agents. This method allows us to manage dependencies easily, make our workflows portable, and maintain full control over our data and costs a crucial professional skill.
 
 💡 Agent Building Pathways
 
 We explored n8n's two key approaches for developing AI Agents, balancing speed and customization:
 
 Approach	Method	Description	Key Advantage
-No-Code Solution (Agent Nodes)	Drag-and-drop visual nodes (like the dedicated AI Agent node).	Agents are created by visually connecting LLMs, memory, and tools on a canvas. This approach is rapid for prototyping and business-process automation.	Speed & Accessibility: Ship complex, reliable agents fast without writing a single line of code.
-Code Solution (Custom Tools)	Utilizing the Code Node in combination with the AI Agent node.	This involves writing Python or JavaScript code within n8n's visual workflows to create custom tools or handle highly specialized logic that pre-built nodes cannot manage.	Flexibility & Control: Achieve hyper-specific integration or logic for unique, enterprise-level use cases.
+No-Code Solution (Agent Nodes)	Drag and drop visual nodes (like the dedicated AI Agent node).	Agents are created by visually connecting LLMs, memory, and tools on a canvas. This approach is rapid for prototyping and business-process automation.	Speed & Accessibility: Ship complex, reliable agents fast without writing a single line of code.
+Code Solution (Custom Tools)	Utilizing the Code Node in combination with the AI Agent node.	This involves writing Python or JavaScript code within n8n's visual workflows to create custom tools or handle highly specialized logic that pre built nodes cannot manage.	Flexibility & Control: Achieve hyper-specific integration or logic for unique, enterprise  level use cases.
 
 
