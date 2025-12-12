@@ -31,7 +31,7 @@ Even experienced players fall into traps. I learned to identify common mistakes 
 
 ---
 
-## 🕹️ My Prompting Portfolio
+## 🕹️ My Prompting Portfolio Example
 
 *Here are examples of how I applied these techniques to collect stars. Check out my progression!*
 
